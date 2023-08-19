@@ -1,0 +1,53 @@
+main{
+    min-height: 85vh;
+}
+
+h1{
+    font-size: 1.8ram;
+    padding:1rem 0;
+}
+
+h2{
+    font-size: 1.4ram;
+    padding: 0.5rem 0;
+}
+
+h3{
+    padding: 1rem 0;;
+}
+
+.rating span{
+    margin:0.1rem;
+}
+
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: flex;
+}
+
+.carousel img {
+    display: block;
+    height: 400px;
+    width: auto; 
+    margin: 0 auto;
+  }
+.carousel a {
+  margin: 0 auto;
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 0;
+    margin-right: 10px;
+    max-width: 30px;
+    text-align: right;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    transform: translateX(50%);
+  }
+
+.carousel {
+    background: linear-gradient(to bottom, #757F9A, #D7DDE8);
+} 

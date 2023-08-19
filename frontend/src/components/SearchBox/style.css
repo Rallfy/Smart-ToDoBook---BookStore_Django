@@ -1,0 +1,16 @@
+.search-box-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-box-container .form-control {
+    width: 150px;
+    height: 40px;
+    font-size: 14px;
+  }
+  
+  .search-box-container .btn {
+    margin-left: 10px;
+    padding: 4px 8px;
+    font-size: 14px;
+  }
