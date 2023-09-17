@@ -3,19 +3,19 @@
 Welcome to the SMART ToDoBook project! This repository contains a detailed description and documentation for a sophisticated online bookstore website known as "ToDoBook." This innovative application takes the book-buying experience to the next level, offering a seamless interface for browsing, reviewing, and purchasing books. Supported by a secure payment system, ToDoBook aims to revolutionize the digital book industry.
 
 Table of Contents
--Introduction
--Features
--Technology Stack
--User Experience
--Administrative Tools
--Unique Contributions
--Getting Started
--License
+1. Introduction
+2. Features
+3. Technology Stack
+4. User Experience
+5. Administrative Tools
+6. Unique Contributions
+7. Getting Started
+8. License
 
-Introduction
+#1. Introduction
 ToDoBook is an interactive and user-centric bookstore website designed to simplify the process of exploring, selecting, and purchasing books online. It provides a platform for readers to browse a vast collection of books, leave reviews, and make secure payments using various methods, including credit cards and PayPal. The website's primary goal is to create a personalized and secure shopping experience for users.
 
-Features
+#2. Features
 User-Centric Features
 Personalized Accounts: Users can create accounts to manage orders, track shipping, and securely store personal data.
 Book Browsing: Browse an extensive collection of books with detailed descriptions and cover images.
