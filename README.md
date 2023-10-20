@@ -67,4 +67,12 @@ Thank you for joining us on this journey to enhance the online book shopping exp
 Happy reading! 📚🛒📝
 
 
-![image](https://github.com/Rallfy/Licenta_2023/assets/44873170/5b11fdb2-cdc2-496e-be60-cb807b4c44c4)
+![image](![image](https://github.com/Rallfy/Licenta_2023/assets/44873170/f5f17bb0-a19c-45b6-b22f-4a32ceaecf12))
+
+![image](![image](![image](https://github.com/Rallfy/Licenta_2023/assets/44873170/71046eaa-d466-43b3-9025-71a1932c33d0)))
+
+![image](![image](![image](https://github.com/Rallfy/Licenta_2023/assets/44873170/c2da9d7b-e372-46ef-90a8-91beac8f4f79)))
+
+![image](![image](![image](https://github.com/Rallfy/Licenta_2023/assets/44873170/bb1ac97a-87cb-438f-b58d-df08a2d15e1f)))
+
+![image](![image](![image](https://github.com/Rallfy/Licenta_2023/assets/44873170/ca41f67e-bcb0-451e-b1ec-b271f31b4aee)))
