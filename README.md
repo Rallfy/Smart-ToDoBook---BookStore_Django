@@ -28,10 +28,10 @@ ToDoBook is an interactive and user-centric bookstore website designed to simpli
 ``` git clone <repository_url> ```
 - For the backend to start:\
   ``` cd .\backend\backend ``` \
-  ``` python manage.py runserver ``` \
+  ``` python manage.py runserver ```
 - For the frontend:\
   ``` cd .\frontend ```\
-  ``` npm start ```\  
+  ``` npm start ```
  
 # Enjoy and Happy reading! 📚🛒📝
 
