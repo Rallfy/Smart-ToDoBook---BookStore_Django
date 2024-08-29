@@ -29,7 +29,7 @@ ToDoBook is an interactive and user-centric bookstore website designed to simpli
 - For the backend to start:\
   ``` cd .\backend\backend ``` \
   ``` python manage.py runserver ``` \
-- For the frontend:
+- For the frontend:\
   ``` cd .\frontend ```\
   ``` npm start ```\  
  
